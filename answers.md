@@ -1,7 +1,8 @@
-cd""
-"ANSWER 1" 
+
+ANSWER 1
 git version 2.30.1.windows.1
-"ANSWER 2" 
+
+ANSWER 2
 diff.astextplain.textconv=astextplain
 filter.lfs.clean=git-lfs clean -- %f
 filter.lfs.smudge=git-lfs smudge -- %f
@@ -24,7 +25,8 @@ core.bare=false
 core.logallrefupdates=true
 core.symlinks=false
 core.ignorecase=true
-"ANSWER 3"
+
+ANSWER 3
 usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
            [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
            [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
@@ -123,10 +125,11 @@ Changes not staged for commit:
 	modified:   answers.md
 
 no changes added to commit (use "git add" and/or "git commit -a")
-"ANSWER10"
+
+ANSWER10
 "THe changes were not reflected on local"
 
-"ANSWER11"
+ANSWER11
 "To https://github.com/raminiakhilsai/git-lab.git
  ! [rejected]        main -> main (fetch first)
 error: failed to push some refs to 'https://github.com/raminiakhilsai/git-lab.git'
@@ -136,10 +139,10 @@ hint: to the same ref. You may want to first integrate the remote changes
 hint: (e.g., 'git pull ...') before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.""ANSWER12" 
 
-"ANSWER12"
+ANSWER12
 "Yes, I can now see the local changes" 
 
-"ANSWER13"
+ANSWER13
 "    Directory: C:\Users\Akhil Sai Ramini\Desktop\2400\git-lab-2
 
 
