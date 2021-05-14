@@ -145,7 +145,6 @@ ANSWER12
 ANSWER13
 "    Directory: C:\Users\Akhil Sai Ramini\Desktop\2400\git-lab-2
 
-
 Mode                LastWriteTime         Length Name
 ----                -------------         ------ ----
 -a----        5/13/2021   9:26 PM            302 .gitignore
