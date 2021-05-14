@@ -109,13 +109,13 @@ Untracked files: (use "git add ..." to include in what will be committed) ~$nswe
 no changes added to commit (use "git add" and/or "git commit -a") ""
 
 
-"ANSWER 8" 
+ANSWER 8
 commit 4e4e27b6c3852f9dce18c2aa26c76c41ebdbe601
 Author: Akhil Sai Ramini <ramini.akhilsai@gmail.com>
 Date:   Thu May 13 20:59:44 2021 -0400
 
     Initial commit
-"ANSWER 9" 
+ANSWER 9
 On branch main
 Your branch is up to date with 'origin/main'.
 
